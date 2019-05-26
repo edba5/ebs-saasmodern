@@ -1,7 +1,7 @@
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules/
-jspm_packages/
+3node_modules/
+3jspm_packages/
 
 
 .DS_STORE
