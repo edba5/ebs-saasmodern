@@ -95,7 +95,7 @@ module.exports =
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/date/now.js":
 /*!************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/date/now.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/date/now.js ***!
   \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -106,7 +106,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/date/now */ "core-js
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/json/stringify.js":
 /*!******************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
   \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -117,7 +117,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/json/stringify */ "c
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/assign.js":
 /*!*****************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
   \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -128,7 +128,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/assign */ "co
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/create.js":
 /*!*****************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
   \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -139,7 +139,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/create */ "co
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
 /*!**************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
   \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -150,7 +150,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js":
 /*!**************************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
   \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -161,7 +161,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js":
 /*!***********************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
   \***********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -172,7 +172,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js":
 /*!***************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
   \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -183,7 +183,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/keys.js":
 /*!***************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
   \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -194,7 +194,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/keys */ "core
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js":
 /*!***************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
   \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -205,7 +205,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/set-prototype
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/promise.js":
 /*!***********************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
   \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -216,7 +216,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/promise */ "core-js/
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol.js":
 /*!**********************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
   \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -227,7 +227,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "core-js/l
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
 /*!*******************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
   \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -238,7 +238,7 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol/iterator */ "
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js":
 /*!*************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
   \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -257,7 +257,7 @@ module.exports = _assertThisInitialized;
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js":
 /*!******************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
   \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -274,7 +274,7 @@ module.exports = _classCallCheck;
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/createClass.js":
 /*!***************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
   \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -304,7 +304,7 @@ module.exports = _createClass;
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js":
 /*!*****************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js ***!
   \*****************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -324,7 +324,7 @@ function _assertThisInitialized(self) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/asyncToGenerator.js":
 /*!************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/asyncToGenerator.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/asyncToGenerator.js ***!
   \************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -376,7 +376,7 @@ function _asyncToGenerator(fn) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js":
 /*!**********************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js ***!
   \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -394,7 +394,7 @@ function _classCallCheck(instance, Constructor) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js":
 /*!*******************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js ***!
   \*******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -427,7 +427,7 @@ function _createClass(Constructor, protoProps, staticProps) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js":
 /*!**********************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js ***!
   \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -457,7 +457,7 @@ function _defineProperty(obj, key, value) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/extends.js":
 /*!***************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
   \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -490,7 +490,7 @@ function _extends() {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js":
 /*!**********************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js ***!
   \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -515,7 +515,7 @@ function _getPrototypeOf(o) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js":
 /*!****************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js ***!
   \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -547,7 +547,7 @@ function _inherits(subClass, superClass) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectSpread.js":
 /*!********************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/objectSpread.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/objectSpread.js ***!
   \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -590,7 +590,7 @@ function _objectSpread(target) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js":
 /*!*********************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js ***!
   \*********************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -614,7 +614,7 @@ function _possibleConstructorReturn(self, call) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/setPrototypeOf.js":
 /*!**********************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/setPrototypeOf.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/setPrototypeOf.js ***!
   \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -638,7 +638,7 @@ function _setPrototypeOf(o, p) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/typeof.js":
 /*!**************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/esm/typeof.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/typeof.js ***!
   \**************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -673,7 +673,7 @@ function _typeof(obj) {
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js":
 /*!******************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
   \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -695,7 +695,7 @@ module.exports = _getPrototypeOf;
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/inherits.js":
 /*!************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
   \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -725,7 +725,7 @@ module.exports = _inherits;
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
 /*!*************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
   \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -742,7 +742,7 @@ module.exports = _interopRequireDefault;
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js":
 /*!*****************************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
   \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -765,7 +765,7 @@ module.exports = _possibleConstructorReturn;
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js":
 /*!******************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
   \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -787,7 +787,7 @@ module.exports = _setPrototypeOf;
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/typeof.js":
 /*!**********************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
   \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -818,7 +818,7 @@ module.exports = _typeof;
 
 /***/ "../../node_modules/@babel/runtime-corejs2/regenerator/index.js":
 /*!*************************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
   \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -830,7 +830,7 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "regenerator-run
 
 /***/ "../../node_modules/common/src/assets/image/favicon.png":
 /*!*****************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/common/src/assets/image/favicon.png ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/common/src/assets/image/favicon.png ***!
   \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -841,7 +841,7 @@ module.exports = "/_next/static/images/favicon-ebc3cc2d94d81f8b4a3c31d2f6d8f460.
 
 /***/ "../../node_modules/next/dist/pages/_document.js":
 /*!**********************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/next/dist/pages/_document.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/next/dist/pages/_document.js ***!
   \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1357,7 +1357,7 @@ function getPagePathname(page) {
 
 /***/ "../../node_modules/next/dist/server/htmlescape.js":
 /*!************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/next/dist/server/htmlescape.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/next/dist/server/htmlescape.js ***!
   \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1385,7 +1385,7 @@ exports.htmlEscapeJsonString = htmlEscapeJsonString;
 
 /***/ "../../node_modules/next/document.js":
 /*!**********************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/next/document.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/next/document.js ***!
   \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1397,7 +1397,7 @@ module.exports = __webpack_require__(/*! ./dist/pages/_document */ "../../node_m
 
 /***/ "../../node_modules/string-hash/index.js":
 /*!**************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/string-hash/index.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/string-hash/index.js ***!
   \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1426,7 +1426,7 @@ module.exports = hash;
 
 /***/ "../../node_modules/styled-jsx/dist/lib/stylesheet.js":
 /*!***************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/styled-jsx/dist/lib/stylesheet.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/styled-jsx/dist/lib/stylesheet.js ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1740,7 +1740,7 @@ function invariant(condition, message) {
 
 /***/ "../../node_modules/styled-jsx/dist/server.js":
 /*!*******************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/styled-jsx/dist/server.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/styled-jsx/dist/server.js ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1791,7 +1791,7 @@ function flushToHTML() {
 
 /***/ "../../node_modules/styled-jsx/dist/style.js":
 /*!******************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/styled-jsx/dist/style.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/styled-jsx/dist/style.js ***!
   \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1902,7 +1902,7 @@ function flush() {
 
 /***/ "../../node_modules/styled-jsx/dist/stylesheet-registry.js":
 /*!********************************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/styled-jsx/dist/stylesheet-registry.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/styled-jsx/dist/stylesheet-registry.js ***!
   \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2183,7 +2183,7 @@ function invariant(condition, message) {
 
 /***/ "../../node_modules/styled-jsx/server.js":
 /*!**************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/styled-jsx/server.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/styled-jsx/server.js ***!
   \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -2230,7 +2230,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "D:\\RedQ Projects\\next new\\react-next-landing\\packages\\landing\\pages\\_document.js";
+var _jsxFileName = "/Users/edgar/Downloads/SuperProps/SuperProps/packages/landing/pages/_document.js";
 
 
 

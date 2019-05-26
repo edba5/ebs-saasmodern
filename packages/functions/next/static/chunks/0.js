@@ -2,7 +2,7 @@
 
 /***/ "../../node_modules/next/dist/client/noop.js":
 /*!******************************************************************************************!*\
-  !*** D:/RedQ Projects/next new/react-next-landing/node_modules/next/dist/client/noop.js ***!
+  !*** /Users/edgar/Downloads/SuperProps/SuperProps/node_modules/next/dist/client/noop.js ***!
   \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
